@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## FE🔨 
+## 🔨 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
 <!-- Frontend -->
 <!--     <p><strong>FE</strong></p> -->
